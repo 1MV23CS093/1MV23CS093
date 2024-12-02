@@ -1,1 +1,2 @@
 This is a text file created on the remote repo of the git. Dhanyavaad!
+In Hindi, we call Thank You as dhanyavaad.
